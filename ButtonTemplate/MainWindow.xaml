@@ -9,7 +9,7 @@
     <Grid>
 
         <Button Style="{StaticResource TriangleButton}" HorizontalAlignment="Left" Margin="72,126,0,0" VerticalAlignment="Top" />
-        <Button Style="{DynamicResource RoundedRectangleButton}" HorizontalAlignment="Left" Margin="274,136,0,0" VerticalAlignment="Top"/>
-        <Button Style="{DynamicResource HexagonButton}" Content="Button" HorizontalAlignment="Left" Margin="208,217,0,0" VerticalAlignment="Top" Height="71" Width="64"/>
+        <Button Style="{DynamicResource RoundedRectangleButton}" HorizontalAlignment="Left" Margin="223,136,0,0" VerticalAlignment="Top"/>
+        <Button Style="{DynamicResource HexagonButton}" Content="Button" HorizontalAlignment="Left" Margin="462,126,0,0" VerticalAlignment="Top" Height="71" Width="64"/>
     </Grid>
 </Window>
